@@ -396,7 +396,7 @@
                                         <subviews>
                                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="Zyb-0Z-2Ny">
                                                 <rect key="frame" x="10" y="0.0" width="394" height="500"/>
-                                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                                <color key="backgroundColor" red="0.75048902403209461" green="0.89539053904799548" blue="0.91251142373553307" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <prototypes>
                                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" restorationIdentifier="TableViewCell" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="TableViewCell" id="S85-c8-Dz3" customClass="TableViewCell" customModule="Clima" customModuleProvider="target">
                                                         <rect key="frame" x="0.0" y="28" width="394" height="30"/>
